@@ -4,6 +4,10 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
+## How to use 
+
+https://user-images.githubusercontent.com/92850947/209220948-86a1d1fb-4f6e-407f-a0af-ad826c7f4d4c.mp4
+
 ## *Table of Contents*
 
 - [Description](#description)
