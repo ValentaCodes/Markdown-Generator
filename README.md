@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/92850947/209228655-b6b321b5-0b79-4324-
   
   Add any relevant links for this project below:
 
-  [Github Repo](https://github.com/ValentaCodes/Markdown-Generator/edit/main/README.md)
+  [Github Repo](https://github.com/ValentaCodes/Markdown-Generator)
 
 ## License
 
