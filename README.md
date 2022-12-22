@@ -35,15 +35,20 @@ https://user-images.githubusercontent.com/92850947/209220948-86a1d1fb-4f6e-407f-
 
 ## **Installation**
   
-  Download files
+  - Download zip file 
 
 ## **Usage**
 
 - Navigate to respective directory where files where downloaded
-  - cd into develop
-  - run "npm index.js"
-  - follow prompt
-  - enjoy
+- cd into develop
+
+  ```
+  npm install
+  npm index.js
+  ```
+
+- follow prompt
+- enjoy
 
 ## **Contribution**
 
@@ -64,7 +69,7 @@ https://user-images.githubusercontent.com/92850947/209220948-86a1d1fb-4f6e-407f-
   
   Add any relevant links for this project below:
 
-  [Your Website](URL)
+  [Github Repo](https://github.com/ValentaCodes/Markdown-Generator/edit/main/README.md)
 
 ## License
 
