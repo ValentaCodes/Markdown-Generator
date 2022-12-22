@@ -6,7 +6,7 @@
 
 ## How to use 
 
-https://user-images.githubusercontent.com/92850947/209220948-86a1d1fb-4f6e-407f-a0af-ad826c7f4d4c.mp4
+https://user-images.githubusercontent.com/92850947/209228655-b6b321b5-0b79-4324-a805-0d578f034c75.mp4
 
 ## *Table of Contents*
 
