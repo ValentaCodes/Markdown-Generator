@@ -151,15 +151,16 @@ const README = (answers) => {
 };
 
 // This function creates our file.
-function writeToFile(fileName, answers) {
+function writeToFile(fileName) {
+  fileName = "../markdown/README.md";
   inquirer.prompt(questions).then((answers) => {
     const readMePageContent = README(answers); // We are storing our readme function into a variable so we can access it's data below
 
     // Here we initialize our README, add our template along with the users answers.
-    fs.writeFile("README.md", readMePageContent, (error) =>
+    fs.writeFile(fileName, readMePageContent, (error) =>
       error
         ? console.log(error)
-        : console.log("Success! check the develop folder.")
+        : console.log("Success! check the markdown folder.")
     );
   });
 }
