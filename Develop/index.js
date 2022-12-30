@@ -58,7 +58,7 @@ const questions = [
     type: "list",
     message: "What license will this project have?",
     name: "license",
-    choices: ["MIT", "Apache2.0", "ISC", "BSD"],
+    choices: ["MIT", "Apache-2.0", "ISC", "BSD"],
   },
   {
     type: "input",
@@ -76,11 +76,14 @@ const questions = [
 const README = (answers) => {
   let license = answers.license;
   let lowerCaseLicense = license.toLowerCase();
+  if (answers.license === "Apache-2.0") {
+    license = "Apache--2.0";
+  }
   return `# ${answers.title}
 
----
-
-![License](https://img.shields.io/badge/License-${answers.license}-blue)
+<a href="https://choosealicense.com/licenses/${lowerCaseLicense}">
+<img src="https://img.shields.io/badge/License-${license}-blue" />
+</a>
 
 ## *Table of Contents*
 
