@@ -1,8 +1,8 @@
 # Markdown-Generator
 
----
-
-![License](https://img.shields.io/badge/License-MIT-blue)
+<a href="https://choosealicense.com/licenses/mit/">
+<img src="https://img.shields.io/badge/License-MIT-blue" />
+</a>
 
 ## How to use 
 
@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/92850947/209228655-b6b321b5-0b79-4324-
 
 ## **Usage**
 
-- Navigate to respective directory where files where downloaded
+- Navigate to respective directory where files downloaded
 - cd into develop
 
   ```
